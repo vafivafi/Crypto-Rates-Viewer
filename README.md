@@ -45,8 +45,8 @@ Crypto Rates Viewer — это асинхронный сервис для пол
 1. Клонируй репозиторий:
 
 
-git clone https://github.com/vafivafi/Crypto-Rates-Viewer.git
-cd crypto-rates-viewer
+`git clone https://github.com/vafivafi/Crypto-Rates-Viewer.git`
+`cd crypto-rates-viewer`
 
 
 2. Установи зависимости:
