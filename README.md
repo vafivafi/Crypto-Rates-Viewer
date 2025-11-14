@@ -46,6 +46,7 @@ Crypto Rates Viewer — это асинхронный сервис для пол
 
 
 `git clone https://github.com/vafivafi/Crypto-Rates-Viewer.git`
+
 `cd crypto-rates-viewer`
 
 
