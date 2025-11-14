@@ -52,12 +52,12 @@ cd crypto-rates-viewer
 2. Установи зависимости:
 
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. Запусти сервер:
 
-uvicorn main:app --reload
+`uvicorn main:app --reload`
 
 
 4. Перейди в браузере на `http://127.0.0.1:8000/docs` для тестирования API
